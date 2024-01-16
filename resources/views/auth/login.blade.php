@@ -9,7 +9,9 @@
     <div class="container">
         <div class="logodiv" >
             <a class="navbar-brand" href="index.html">
+                
               <img src="images/logo.jpg" >
+              <h4>BOXA</h4>
             </a>
           </div>
 	<div class="row">
